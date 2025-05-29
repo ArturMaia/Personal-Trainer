@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/Personal-Trainer/blob/main/imagens/icone.jpeg" alt="atleta" width="150" style="border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/Personal-Trainer/blob/main/imagens/icone.jpeg" alt="atleta" style="width: 150px; border-radius: 10px;">
 </p>
 
 <h1 align="center">Personal Trainer</h1>
